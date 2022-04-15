@@ -3,3 +3,4 @@ a2  master 想要冲突了，哈哈 热修复 的第二次修改
 a3  我在github上进行了远程修改
 a4  我又对该项目进行了优化 by dterxl-clone
 a5  我也优化了一下这个项目，大佬你再帮我看看
+a6  你优化的很好，没什么bug，可以上线了 by dterxl-clone
